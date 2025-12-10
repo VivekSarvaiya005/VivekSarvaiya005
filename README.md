@@ -1,65 +1,59 @@
-
 # 👋 Hi, I'm Vivek Sarvaiya
 
-### 🚀 Full-Stack Web Developer
-
-I love building real-world web applications using modern JavaScript technologies.  
-I focus on backend development, clean UI, and practical projects that actually help people.
+### 🚀 MERN Stack Developer  
+I build modern and scalable **full-stack web applications** using **MongoDB, Express, React & Node.js**.  
+Passionate about backend systems, clean UI and real world projects.
 
 ---
 
-## 🧑‍💻 About Me
+## 🧠 About Me
 
-- 🔥 Full-Stack JavaScript Developer  
-- 🌱 Learning: Node.js, Express, MongoDB, JWT, REST APIs  
-- 💻 Working on real projects to improve my skills  
-- 🎯 Goal: Become a senior backend developer  
-- ⚡ Fun fact: I debug my code by adding more console logs 😆  
+- 🌱 I’m currently learning advanced concepts in MERN stack & REST APIs  
+- 💻 I work with Node.js, React, MongoDB daily  
+- 🔭 Currently building real projects like **SmartTrip – Travel Planner**  
+- 💬 Ask me about **JavaScript, Node.js or React**  
+- ⚡ Fun fact: I debug with way too many `console.log()` 😄
+
+---
+
+## 💼 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vivek%20Sarvaiya-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vivek-sarvaiya-b0985827b)  
+[![GitHub](https://img.shields.io/badge/GitHub-VivekSarvaiya005-black?style=for-the-badge&logo=github)](https://github.com/VivekSarvaiya005)
 
 ---
 
 ## 🛠️ Tech Stack
 
-### **Languages**
-- JavaScript  
-- HTML  
-- CSS  
+**Frontend:**  
+React • HTML • CSS • Bootstrap • Tailwind CSS  
 
-### **Backend**
-- Node.js  
-- Express.js  
-- REST API  
-- JWT Authentication  
-- Mongoose  
+**Backend:**  
+Node.js • Express.js • REST APIs  
 
-### **Frontend**
-- EJS  
-- Bootstrap  
+**Database:**  
+MongoDB • Mongoose  
 
-### **Database**
-- MongoDB  
-
-### **Tools**
-- Git  
-- GitHub  
-- VS Code  
-- Postman  
+**Tools:**  
+Git • GitHub • VS Code • Postman
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🔹 SmartTrip – Travel Planner  
-A travel booking system with Razorpay payment integration  
-**Tech:** Node.js, MongoDB, EJS
+### 🔹 **SmartTrip – Travel Planner**  
+A travel booking platform with hotel booking & Razorpay payment integration  
+**Tech:** Node.js • MongoDB • EJS • Razorpay
 
-### 🔹 YouTube Playlist Downloader  
-Download full playlists with quality selection  
-**Tech:** Node.js, API Integration
+### 🔹 **YouTube Playlist Downloader**  
+Download full YouTube playlists with quality options  
+**Tech:** Node.js • API Integration
 
-### 🔹 Online Appointment System  
-Book and manage appointments easily  
-**Tech:** Node.js, EJS, MongoDB
+### 🔹 **Online Appointment System**  
+Web app to book and manage appointments  
+**Tech:** MERN Stack (MongoDB, Express, React, Node)
+
+*(More coming soon…)*
 
 ---
 
@@ -73,15 +67,6 @@ Book and manage appointments easily
 
 ---
 
-## 🌐 Connect With Me
+## ⭐ Thanks for Visiting!
 
-- 💻 GitHub: https://github.com/VivekSarvaiya005  
-- 📸 Instagram: Coming Soon  
-- ✉️ Email: Coming Soon  
-- 🔗 LinkedIn: Coming Soon  
-
----
-
-## ⭐ Thanks for visiting!
-
-If you like my work, don't forget to ⭐ my repositories!
+If you like my profile & projects, don’t forget to ⭐ my repositories 🙂
