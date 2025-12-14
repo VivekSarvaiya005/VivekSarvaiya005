@@ -8,13 +8,13 @@
 ---
 
 ## 🙋‍♂️ About Me
-<p align="center">
+<p>
 I am a passionate <b>Full-Stack Web Developer</b> who loves building modern web applications.<br/>
 I enjoy working on both <b>Frontend</b> and <b>Backend</b>, learning new technologies,<br/>
 and turning ideas into real-world projects.
 </p>
 
-<p align="center">
+<p>
 🌱 Currently improving my <b>React & Node.js</b> skills <br/>
 💡 Interested in <b>Web Development & Open Source</b> <br/>
 🎯 Goal: Become a <b>Professional Full-Stack Developer</b>
@@ -25,17 +25,17 @@ and turning ideas into real-world projects.
 ## 🚀 Tech Stack
 
 ### 🎨 Frontend
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,jquery,react" />
 </p>
 
 ### 🧠 Backend
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### 🛠 Tools & Others
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 </p>
 
@@ -58,7 +58,7 @@ Some exciting projects will be added here very soon!
 ---
 
 ## 🌐 Connect With Me
-<p align="center">
+<p>
   <a href="https://github.com/VivekSarvaiya005">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
