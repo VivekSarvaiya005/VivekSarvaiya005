@@ -34,6 +34,12 @@ and turning ideas into real-world projects.
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
+### **Database:**
+<p>
+  <img src="[https://skillicons.dev/icons?i=MongoDB](https://skillicons.dev/icons?i=mongodb)" />
+  
+</p>
+
 ### 🛠 Tools & Others
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
