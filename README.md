@@ -36,7 +36,7 @@ and turning ideas into real-world projects.
 
 ### **Database:**
 <p>
-  <img src="[https://skillicons.dev/icons?i=MongoDB](https://skillicons.dev/icons?i=mongodb)" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
   
 </p>
 
