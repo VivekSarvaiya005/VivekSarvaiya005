@@ -49,8 +49,27 @@ and turning ideas into real-world projects.
 
 ## 📂 Projects
 <p align="center">
-🚧 I am actively building projects to strengthen my skills. 🚀 <br/>
-Some exciting projects will be added here very soon!
+
+### 🔹 **Smart Trip Planner**
+Travel planning system for smarter trips.  
+**Tech:** HTML, CSS, JavaScript, Node.js, Express, MongoDB  
+🔗 [*Repo link*](https://github.com/Sahilghoghari07/SmartTrip-Travel-Planner)
+
+---
+
+### 🔹 **Hospital Management System**
+Manages patients, doctors, appointments & admin panel.  
+**Tech:** HTML, CSS, JavaScript, LocalStorage  
+🔗 [*Repo link*](https://github.com/Sahilghoghari07/online-appointment-system)
+
+---
+
+### 🔹 **Mini Projects Collection**
+UI components • JavaScript apps • jQuery tasks • CSS challenges  
+🔗 *Check repos*
+[*CSS-Tasks*](https://github.com/Sahilghoghari07/CSS-Tasks)
+[*Bootstrap-Tasks*](https://github.com/Sahilghoghari07/Bootstrap-Tasks)
+[*JavaScript-Projects*](https://github.com/Sahilghoghari07/JavaScript-Projects)
 </p>
 
 ---
